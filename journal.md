@@ -17,3 +17,9 @@ John had a lot of money to buy Smith et al castles.
 
 # Results 
 Nothing happened to the result
+
+
+# Figures
+Legend 1 sits here
+- fig 2
+- fig 3
