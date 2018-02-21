@@ -3,11 +3,11 @@ John Williams - UoM
 Victoria Palin - UCL
 
 # Title
-Once upon a time in Williams Land
+Once upon a time in FAIRY Land
 
 
 # Abstract 
-How to build a castle in fairly land
+How to build a castle in FAIRY land
 
 # Introduction
 In a land far far away there was a.. 
