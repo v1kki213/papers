@@ -3,3 +3,6 @@ Measurements of castle age
 
 J. Smith et al 1290
 Castle owner of all castles
+
+Smith et al 1290
+AMS seminal paper

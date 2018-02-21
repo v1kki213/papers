@@ -9,5 +9,8 @@ In a land far far away there was a..
 J.bloggs et al in a big castle, but he wanted more castles.
 Of course, J. Smith et al owned all the other castles in the land since 1290.
 
+# methodology 
+We used an aerosol mass spec to measure areosol compositions and mass (Smith et al 1290).
+
 # Simulations
 John had a lot of money to buy Smith et al castles.
