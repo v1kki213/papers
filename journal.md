@@ -31,3 +31,6 @@ Legend 1 sits here
 
 # Acknowledgements
 We thank the fairyland for funding the build of new castles.
+
+#Adding more information
+what about ethics approval? Where's your ISAC form?
