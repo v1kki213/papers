@@ -30,7 +30,7 @@ Legend 1 sits here
 - fig 3
 
 # Acknowledgements
-We thank the fairyland for funding the build of new castles.
+We thank the fairyland for funding the build of new castles. Thank you for collaboration.
 
 #Adding more information
 what about ethics approval? Where's your ISAC form?
