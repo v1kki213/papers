@@ -1,5 +1,6 @@
 # Authors
-Victoria Palin and John Williams
+John Williams
+Victoria Palin
 
 # Title
 Once upon a time in Williams Land
