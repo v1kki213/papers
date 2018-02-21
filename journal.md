@@ -1,6 +1,6 @@
 # Authors
-John Williams
-Victoria Palin
+John Williams - UoM 
+Victoria Palin - UCL
 
 # Title
 Once upon a time in Williams Land
